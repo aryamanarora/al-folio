@@ -1,18 +1,29 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+Sepehri:
+    url: https://www.udc.edu/sbpa/sbpa/office-of-the-dean/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+McIntyre:
+    url: https://www.scheller.gatech.edu/directory/faculty/mcintyre/index.html
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+Schneider:
+    url: http://people.cs.georgetown.edu/nschneid/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+Gessler:
+    url: https://lgessler.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+R:
+    url: https://linguizone.wordpress.com/
+
+Manning:
+    url: https://esmanning.github.io/
+
+Wein:
+    url: https://shirawein.georgetown.domains/
+
+Peng:
+    url: https://logan-siyao-peng.github.io/
+
+Kranzlein:
+    url: https://www.michaelkranzlein.com/
+
+Venkateswaran:
+    url: https://www.linkedin.com/in/nitin-venkateswaran

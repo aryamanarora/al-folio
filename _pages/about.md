@@ -2,23 +2,22 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: /ˈäːɾjəmən əˈɾoːɾäː/ Sophomore, <a href="http://georgetown.edu/">Georgetown University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: me2.jpg
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am doing a double major B.S. degree in Computer Science and Linguistics at Georgetown University. I do **computational linguistics** research as a member of [NERT](http://nert.georgetown.edu/), [Dr. Nathan Schneider](http://people.cs.georgetown.edu/nschneid/)'s research group at Georgetown. I'm excited about technologies for **South Asian languages** and linguistic work on **Indo-Aryan languages**.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm an admin on the [English Wiktionary](https://en.wiktionary.org/wiki/User:AryamanA) where I manage South Asian language documentation. I love learning languages---besides being a native speaker of Hindi and English, I'm comfortable with Urdu and Punjabi and am actively learning Mandarin and Sanskrit. I also run a South Asian linguistics reading group, [Moḻi-maṇḍala](https://aryamanarora.github.io/moli-mandala/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I like to bicycle (though not very well), read (in English and Hindi, but the latter not very well), and eat unreasonable amounts of food relative to my size. I'd also say I like to go places, but we're in the middle of a pandemic. With my friend Ananya Gulati, I run [Washingtutors](http://washingtutors.org/), an online tutoring non-profit for students in the D.C. Public School system (in which I spent my best years of high school, at the [School Without Walls](https://www.swwhs.org/)).
+
+[Check out my CV](/assets/cv.pdf).
