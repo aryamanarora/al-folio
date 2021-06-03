@@ -15,4 +15,4 @@ Some of the subprojects involving SNACS that I worked on:
 - [Maitrey Mehta](https://sites.google.com/view/maitreymehta/home) started Gujarati annotation in December 2020, and I met with him several times to compare annotations with Hindi and help resolve linguistic issues found in Gujarati.
 - Analysis of the [PASTRIE corpus](https://www.aclweb.org/anthology/2020.law-1.10/), which looks at L2 English speech collected from the internet.
 
-I also discussed with Bill Croft about [Uniform Meaning Representation (UMR)](https://link.springer.com/article/10.1007/s13218-021-00722-w) (specifically, the handling of causatives in Hindi).
+I also discussed with Bill Croft about [Uniform Meaning Representation (UMR)](https://link.springer.com/article/10.1007/s13218-021-00722-w) (specifically, about the handling of causatives in Hindi).
