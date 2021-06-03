@@ -15,8 +15,3 @@ I have worked with [Maryam Nourzaei](https://katalog.uu.se/profile/?id=N11-902),
 The plan is to publish a phonological description in JIPA in mid-2021 (draft is ready, awaiting collection of recordings), upload the dictionary to Dictionaria and Wiktionary (probably mid-2021), publish some work on Kholosi from a historical/comparative perspective (by late 2021), and study contact with Persian (2022).
 
 [Check out the Kholosi website](https://aryamanarora.github.io/kholosi/).
-
-## Publications
-<div class="publications mt-0">
-{% bibliography -f papers -q @*[labels=Kholosi]* %}
-</div>

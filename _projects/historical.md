@@ -17,8 +17,3 @@ Basically, the main issues here are that:
 2. A lot of computational advances (even those already applied in historical linguistics) are yet to be applied to South Asian languages.
 
 So, I want to fill that gap. The hope is that not only will this benefit historical/archaeological/genetic study of South Asian linguistic development, but also that by collecting our data together we can work towards improving more broadly useful NLP for South Asian languages.
-
-## Publications
-<div class="publications mt-0">
-{% bibliography -f papers -q @*[labels=historical]* %}
-</div>

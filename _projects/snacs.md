@@ -16,8 +16,3 @@ Some of the subprojects involving SNACS that I worked on:
 - Analysis of the [PASTRIE corpus](https://www.aclweb.org/anthology/2020.law-1.10/), which looks at L2 English speech collected from the internet.
 
 I also discussed with Bill Croft about [Uniform Meaning Representation (UMR)](https://link.springer.com/article/10.1007/s13218-021-00722-w) (specifically, the handling of causatives in Hindi).
-
-## Publications
-<div class="publications mt-0">
-{% bibliography -f papers -q @*[labels=SNACS]* %}
-</div>
