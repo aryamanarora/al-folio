@@ -143,7 +143,7 @@ github: [metadata]
 scholar:
 
   last_name: Arora
-  first_name: [Aryaman]
+  first_name: ["Aryaman", "A."]
 
   style: apa
   locale: en
